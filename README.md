@@ -9,5 +9,5 @@ Drag and drop an image file on the ImageSplitter.exe, and enter how many segment
 
 | Application   | Max Images | Usage                                                                                        |
 | ------------- | ---------- |--------------------------------------------------------------------------------------------- |
-| Discord       | 10 Images  | Select all (ctrl + a) the images and drag and drop by dragging the first image onto Discord. |
+| Discord       | 10 Images  | Select all (ctrl + a) the images and drag and drop by dragging the **first image** onto Discord. |
 
