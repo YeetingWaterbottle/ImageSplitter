@@ -1,5 +1,5 @@
 # ImageSplitter
-Splits Image Horizontally
+Splits Image Horizontally. My first C++ project, isn't the best code but useable.
 
 # Usage
 Drag and drop an image file on the ImageSplitter.exe, and enter how many segments you want the output to have.
