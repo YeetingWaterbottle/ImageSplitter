@@ -37,6 +37,12 @@ int main(int argc, char* argv[]) {
 	std::cout << "How many image segments: ";
 	std::cin >> segments;
 
+	if (segments < 1) {
+		std::cout << "Cannot Be Split Below 1 Segments.\n";
+		system("pause");
+		return 1;
+	}
+
 	int segment_length = ImageSplit(orignal_image, segments);
 
 	fs::create_directory(image_name);
